@@ -6,5 +6,9 @@ members:
 - Caleb
 - Harvey
 - Myles
+<<<<<<< HEAD
 - origin
 - origin2
+=======
+- local
+>>>>>>> 2134390 (update jagural.yaml member add local)
