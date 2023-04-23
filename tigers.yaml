@@ -4,8 +4,12 @@ manager: Kenneth
 manager: Deborah
 
 members:
+<<<<<<< HEAD
 - Linda
 - David
 - George
 - Grace 
 - 23.04.23 22:25
+=======
+- 4.23 10:28 main 
+>>>>>>> 44d8364 (edit tiger main-)
